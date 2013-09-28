@@ -5,7 +5,7 @@ This is a fully functioning NodeJS based demo for the AT&amp;T SMS API
 
 To get started, please follow these instructions:
 
-<H2>Get your API keys and setup your development environment:</H2>
+<H3>Get your API keys and setup your development environment:</H3>
 - Go to http://developer.att.com/ to sign up for your developer account
 - Make note of your "api key" and "api secret"
 - Install NodeJS - http://www.nodejs.org/
