@@ -17,8 +17,8 @@ To get started, please follow these instructions:
 - Type 'npm install connect' then hit enter
 
 <H3>Configure your application:</H3>
-- Open the file (app.js)
-- Update the 'api_key' and'api_secret' 
+- Open the file called 'app.js'
+- Update the 'api_key' and 'api_secret' 
 - Update the target cell phone number 
 - Save your changes
 
@@ -26,3 +26,8 @@ To get started, please follow these instructions:
 - In the newly created directly and your freshly saved file, type 'node app.js'
 - Open a browser and go to http://localhost:8080/ 
 - Your cell phone should have received a text message!
+
+</h3>Development Notes</H3>
+- make sure that your target number is an AT&T number
+- Make sure that the formate of the "phone_number" variable is "tel:+1" and then the area code plus your number
+- Google Voice numbers are not supported 
