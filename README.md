@@ -16,13 +16,13 @@ To get started, please follow these instructions:
 - Type 'npm install request' then hit enter
 - Type 'npm install connect' then hit enter
 
-<b>Configure your application:<b>
+<H3>Configure your application:</H3>
 - Open the file (app.js)
 - Update the 'api_key' and'api_secret' 
 - Update the target cell phone number 
 - Save your changes
 
-<b>Send a text message:<b>
+<H3>Send a text message:</H3>
 - In the newly created directly and your freshly saved file, type 'node app.js'
 - Open a browser and go to http://localhost:8080/ 
 - Your cell phone should have received a text message!
